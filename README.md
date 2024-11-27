@@ -60,6 +60,10 @@ This is a Twitter-like web application that allows users to register, log in, po
 - + loader.php
 - + view.php
 
+## MVC Explanation
+- Model: Contains the business logic and data handling. For example, user.php handles user data interactions with the database.
+- View: Responsible for the presentation layer. For example, entry.php displays the user entry page.
+- Controller: Manages the application logic and acts as an intermediary between the Model and the View. For example, user.php handles user-related actions and updates the View accordingly.
 ## Installation
 1. Clone the repository:
 2. Navigate to the project directory:
