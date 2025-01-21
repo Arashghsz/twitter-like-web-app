@@ -1,0 +1,417 @@
+[21-Jul-2022 21:08:29 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:08:29 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:09:18 Asia/Tehran] PHP Fatal error:  Call to a member function prepare() on null in /home/arashghs/app.arashghsz.com/mvc/model/user.php on line 8
+[21-Jul-2022 21:10:24 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:10:24 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:10:31 Asia/Tehran] PHP Fatal error:  Call to undefined function str_contains() in /home/arashghs/app.arashghsz.com/mvc/view/tweet/tweets.php on line 25
+[21-Jul-2022 21:10:59 Asia/Tehran] PHP Fatal error:  Call to undefined function str_contains() in /home/arashghs/app.arashghsz.com/mvc/view/tweet/tweets.php on line 25
+[21-Jul-2022 21:11:01 Asia/Tehran] PHP Fatal error:  Call to undefined function str_contains() in /home/arashghs/app.arashghsz.com/mvc/view/tweet/tweets.php on line 25
+[21-Jul-2022 21:13:05 Asia/Tehran] PHP Fatal error:  Call to undefined function str_contains() in /home/arashghs/app.arashghsz.com/mvc/view/tweet/tweets.php on line 25
+[21-Jul-2022 21:13:28 Asia/Tehran] PHP Fatal error:  Call to undefined function str_contains() in /home/arashghs/app.arashghsz.com/mvc/view/tweet/tweets.php on line 25
+[21-Jul-2022 21:15:52 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:15:52 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:16:01 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:16:01 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:16:23 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:16:23 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:16:31 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:16:31 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:16:37 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:16:37 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:17:03 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:17:03 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:17:10 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:17:10 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:17:53 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:17:53 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:18:06 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:18:06 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:18:14 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:18:14 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:18:32 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:18:32 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:18:45 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:18:45 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:18:52 Asia/Tehran] PHP Fatal error:  Call to undefined function str_contains() in /home/arashghs/app.arashghsz.com/mvc/view/tweet/tweets.php on line 25
+[21-Jul-2022 21:18:56 Asia/Tehran] PHP Fatal error:  Call to undefined function str_contains() in /home/arashghs/app.arashghsz.com/mvc/view/tweet/tweets.php on line 25
+[21-Jul-2022 21:18:58 Asia/Tehran] PHP Fatal error:  Call to undefined function str_contains() in /home/arashghs/app.arashghsz.com/mvc/view/tweet/tweets.php on line 25
+[21-Jul-2022 21:19:01 Asia/Tehran] PHP Fatal error:  Call to undefined function str_contains() in /home/arashghs/app.arashghsz.com/mvc/view/tweet/tweets.php on line 25
+[21-Jul-2022 21:19:55 Asia/Tehran] PHP Fatal error:  Call to undefined function str_contains() in /home/arashghs/app.arashghsz.com/mvc/view/tweet/tweets.php on line 25
+[21-Jul-2022 21:20:04 Asia/Tehran] PHP Fatal error:  Call to undefined function str_contains() in /home/arashghs/app.arashghsz.com/mvc/view/tweet/tweets.php on line 25
+[21-Jul-2022 21:20:17 Asia/Tehran] PHP Fatal error:  Call to undefined function str_contains() in /home/arashghs/app.arashghsz.com/mvc/view/message/messge_list.php on line 55
+[21-Jul-2022 21:20:19 Asia/Tehran] PHP Fatal error:  Call to undefined function str_contains() in /home/arashghs/app.arashghsz.com/mvc/view/message/messge_list.php on line 55
+[21-Jul-2022 21:20:21 Asia/Tehran] PHP Fatal error:  Call to undefined function str_contains() in /home/arashghs/app.arashghsz.com/mvc/view/message/messge_list.php on line 55
+[21-Jul-2022 21:22:33 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:22:33 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:22:33 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:22:33 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:22:40 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:22:40 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:22:43 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:22:43 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:22:45 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:22:45 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:23:38 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:23:38 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:24:12 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:24:12 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:24:13 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:24:13 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:24:14 Asia/Tehran] PHP Warning:  require_once(mvc/controller/use.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:24:14 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/use.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:24:14 Asia/Tehran] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, second array member is not a valid method in /home/arashghs/app.arashghsz.com/index.php on line 22
+[21-Jul-2022 21:24:15 Asia/Tehran] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'UserController' does not have a method '' in /home/arashghs/app.arashghsz.com/index.php on line 22
+[21-Jul-2022 21:24:17 Asia/Tehran] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'UserController' does not have a method 'entr' in /home/arashghs/app.arashghsz.com/index.php on line 22
+[21-Jul-2022 21:25:10 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:25:10 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:25:16 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:25:16 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:25:16 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:25:16 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:25:25 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:25:25 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:25:53 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:25:53 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:25:54 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:25:54 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:25:57 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:25:57 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:26:50 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:26:50 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:26:50 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:26:50 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:28:07 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:28:07 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:28:49 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:28:49 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:28:55 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:28:55 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:29:13 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:29:13 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:30:48 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:30:48 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:32:41 Asia/Tehran] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, second array member is not a valid method in /home/arashghs/app.arashghsz.com/index.php on line 22
+[21-Jul-2022 21:32:42 Asia/Tehran] PHP Warning:  require_once(mvc/controller/use.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:32:42 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/use.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:32:44 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:32:44 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:32:45 Asia/Tehran] PHP Warning:  require_once(mvc/controller/tre.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:32:45 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/tre.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:32:46 Asia/Tehran] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, second array member is not a valid method in /home/arashghs/app.arashghsz.com/index.php on line 22
+[21-Jul-2022 21:32:49 Asia/Tehran] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'TrendController' does not have a method '' in /home/arashghs/app.arashghsz.com/index.php on line 22
+[21-Jul-2022 21:32:51 Asia/Tehran] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'TrendController' does not have a method 'hash' in /home/arashghs/app.arashghsz.com/index.php on line 22
+[21-Jul-2022 21:32:51 Asia/Tehran] PHP Warning:  Missing argument 1 for TrendController::hashtag() in /home/arashghs/app.arashghsz.com/mvc/controller/trend.php on line 43
+[21-Jul-2022 21:32:51 Asia/Tehran] PHP Warning:  Missing argument 2 for TrendController::hashtag() in /home/arashghs/app.arashghsz.com/mvc/controller/trend.php on line 43
+[21-Jul-2022 21:32:54 Asia/Tehran] PHP Warning:  Missing argument 2 for TrendController::hashtag() in /home/arashghs/app.arashghsz.com/mvc/controller/trend.php on line 43
+[21-Jul-2022 21:32:56 Asia/Tehran] PHP Warning:  Missing argument 2 for TrendController::hashtag() in /home/arashghs/app.arashghsz.com/mvc/controller/trend.php on line 43
+[21-Jul-2022 21:32:56 Asia/Tehran] PHP Warning:  Missing argument 2 for TrendController::hashtag() in /home/arashghs/app.arashghsz.com/mvc/controller/trend.php on line 43
+[21-Jul-2022 21:33:05 Asia/Tehran] PHP Warning:  Missing argument 2 for TrendController::hashtag() in /home/arashghs/app.arashghsz.com/mvc/controller/trend.php on line 43
+[21-Jul-2022 21:33:06 Asia/Tehran] PHP Warning:  Missing argument 2 for TrendController::hashtag() in /home/arashghs/app.arashghsz.com/mvc/controller/trend.php on line 43
+[21-Jul-2022 21:33:07 Asia/Tehran] PHP Warning:  Missing argument 2 for TrendController::hashtag() in /home/arashghs/app.arashghsz.com/mvc/controller/trend.php on line 43
+[21-Jul-2022 21:33:47 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:33:47 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:34:33 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:34:33 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:35:51 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 21:35:51 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:00:15 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:00:15 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:00:18 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:00:18 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:00:21 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:00:21 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:00:25 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:00:25 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:00:28 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:00:28 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:00:34 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:00:34 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:00:37 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:00:37 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:00:39 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:00:39 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:06:49 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:06:49 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:06:52 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:06:52 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:06:56 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:06:56 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:07:00 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:07:00 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:10:06 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'arashghs_appdb.tweets' doesn't exist' in /home/arashghs/app.arashghsz.com/mvc/model/tweet.php:159
+Stack trace:
+#0 /home/arashghs/app.arashghsz.com/mvc/model/tweet.php(159): PDOStatement->execute()
+#1 /home/arashghs/app.arashghsz.com/mvc/controller/trend.php(61): TweetModel::show_tweets_by_hashtag('toplearn')
+#2 [internal function]: TrendController->hashtag('latest', 'toplearn')
+#3 /home/arashghs/app.arashghsz.com/index.php(22): call_user_func_array(Array, Array)
+#4 {main}
+  thrown in /home/arashghs/app.arashghsz.com/mvc/model/tweet.php on line 159
+[21-Jul-2022 22:10:56 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'arashghs_appdb.messages' doesn't exist' in /home/arashghs/app.arashghsz.com/mvc/model/message.php:116
+Stack trace:
+#0 /home/arashghs/app.arashghsz.com/mvc/model/message.php(116): PDOStatement->execute()
+#1 /home/arashghs/app.arashghsz.com/mvc/controller/message.php(81): MessageModel::count_message()
+#2 [internal function]: MessageController->msg_count()
+#3 /home/arashghs/app.arashghsz.com/index.php(22): call_user_func_array(Array, Array)
+#4 {main}
+  thrown in /home/arashghs/app.arashghsz.com/mvc/model/message.php on line 116
+[21-Jul-2022 22:10:56 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'arashghs_appdb.notification' doesn't exist' in /home/arashghs/app.arashghsz.com/mvc/model/notification.php:25
+Stack trace:
+#0 /home/arashghs/app.arashghsz.com/mvc/model/notification.php(25): PDOStatement->execute()
+#1 /home/arashghs/app.arashghsz.com/mvc/controller/notification.php(24): NotificationModel::count_notification_detail('25')
+#2 [internal function]: NotificationController->get_notif_count()
+#3 /home/arashghs/app.arashghsz.com/index.php(22): call_user_func_array(Array, Array)
+#4 {main}
+  thrown in /home/arashghs/app.arashghsz.com/mvc/model/notification.php on line 25
+[21-Jul-2022 22:10:59 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'arashghs_appdb.messages' doesn't exist' in /home/arashghs/app.arashghsz.com/mvc/model/message.php:116
+Stack trace:
+#0 /home/arashghs/app.arashghsz.com/mvc/model/message.php(116): PDOStatement->execute()
+#1 /home/arashghs/app.arashghsz.com/mvc/controller/message.php(81): MessageModel::count_message()
+#2 [internal function]: MessageController->msg_count()
+#3 /home/arashghs/app.arashghsz.com/index.php(22): call_user_func_array(Array, Array)
+#4 {main}
+  thrown in /home/arashghs/app.arashghsz.com/mvc/model/message.php on line 116
+[21-Jul-2022 22:10:59 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'arashghs_appdb.notification' doesn't exist' in /home/arashghs/app.arashghsz.com/mvc/model/notification.php:25
+Stack trace:
+#0 /home/arashghs/app.arashghsz.com/mvc/model/notification.php(25): PDOStatement->execute()
+#1 /home/arashghs/app.arashghsz.com/mvc/controller/notification.php(24): NotificationModel::count_notification_detail(NULL)
+#2 [internal function]: NotificationController->get_notif_count()
+#3 /home/arashghs/app.arashghsz.com/index.php(22): call_user_func_array(Array, Array)
+#4 {main}
+  thrown in /home/arashghs/app.arashghsz.com/mvc/model/notification.php on line 25
+[21-Jul-2022 22:11:01 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'arashghs_appdb.messages' doesn't exist' in /home/arashghs/app.arashghsz.com/mvc/model/message.php:116
+Stack trace:
+#0 /home/arashghs/app.arashghsz.com/mvc/model/message.php(116): PDOStatement->execute()
+#1 /home/arashghs/app.arashghsz.com/mvc/controller/message.php(81): MessageModel::count_message()
+#2 [internal function]: MessageController->msg_count()
+#3 /home/arashghs/app.arashghsz.com/index.php(22): call_user_func_array(Array, Array)
+#4 {main}
+  thrown in /home/arashghs/app.arashghsz.com/mvc/model/message.php on line 116
+[21-Jul-2022 22:11:01 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'arashghs_appdb.notification' doesn't exist' in /home/arashghs/app.arashghsz.com/mvc/model/notification.php:25
+Stack trace:
+#0 /home/arashghs/app.arashghsz.com/mvc/model/notification.php(25): PDOStatement->execute()
+#1 /home/arashghs/app.arashghsz.com/mvc/controller/notification.php(24): NotificationModel::count_notification_detail('25')
+#2 [internal function]: NotificationController->get_notif_count()
+#3 /home/arashghs/app.arashghsz.com/index.php(22): call_user_func_array(Array, Array)
+#4 {main}
+  thrown in /home/arashghs/app.arashghsz.com/mvc/model/notification.php on line 25
+[21-Jul-2022 22:11:06 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'arashghs_appdb.messages' doesn't exist' in /home/arashghs/app.arashghsz.com/mvc/model/message.php:116
+Stack trace:
+#0 /home/arashghs/app.arashghsz.com/mvc/model/message.php(116): PDOStatement->execute()
+#1 /home/arashghs/app.arashghsz.com/mvc/controller/message.php(81): MessageModel::count_message()
+#2 [internal function]: MessageController->msg_count()
+#3 /home/arashghs/app.arashghsz.com/index.php(22): call_user_func_array(Array, Array)
+#4 {main}
+  thrown in /home/arashghs/app.arashghsz.com/mvc/model/message.php on line 116
+[21-Jul-2022 22:11:06 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'arashghs_appdb.notification' doesn't exist' in /home/arashghs/app.arashghsz.com/mvc/model/notification.php:25
+Stack trace:
+#0 /home/arashghs/app.arashghsz.com/mvc/model/notification.php(25): PDOStatement->execute()
+#1 /home/arashghs/app.arashghsz.com/mvc/controller/notification.php(24): NotificationModel::count_notification_detail('25')
+#2 [internal function]: NotificationController->get_notif_count()
+#3 /home/arashghs/app.arashghsz.com/index.php(22): call_user_func_array(Array, Array)
+#4 {main}
+  thrown in /home/arashghs/app.arashghsz.com/mvc/model/notification.php on line 25
+[21-Jul-2022 22:11:11 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'arashghs_appdb.messages' doesn't exist' in /home/arashghs/app.arashghsz.com/mvc/model/message.php:116
+Stack trace:
+#0 /home/arashghs/app.arashghsz.com/mvc/model/message.php(116): PDOStatement->execute()
+#1 /home/arashghs/app.arashghsz.com/mvc/controller/message.php(81): MessageModel::count_message()
+#2 [internal function]: MessageController->msg_count()
+#3 /home/arashghs/app.arashghsz.com/index.php(22): call_user_func_array(Array, Array)
+#4 {main}
+  thrown in /home/arashghs/app.arashghsz.com/mvc/model/message.php on line 116
+[21-Jul-2022 22:11:11 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'arashghs_appdb.notification' doesn't exist' in /home/arashghs/app.arashghsz.com/mvc/model/notification.php:25
+Stack trace:
+#0 /home/arashghs/app.arashghsz.com/mvc/model/notification.php(25): PDOStatement->execute()
+#1 /home/arashghs/app.arashghsz.com/mvc/controller/notification.php(24): NotificationModel::count_notification_detail('25')
+#2 [internal function]: NotificationController->get_notif_count()
+#3 /home/arashghs/app.arashghsz.com/index.php(22): call_user_func_array(Array, Array)
+#4 {main}
+  thrown in /home/arashghs/app.arashghsz.com/mvc/model/notification.php on line 25
+[21-Jul-2022 22:11:16 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'arashghs_appdb.messages' doesn't exist' in /home/arashghs/app.arashghsz.com/mvc/model/message.php:116
+Stack trace:
+#0 /home/arashghs/app.arashghsz.com/mvc/model/message.php(116): PDOStatement->execute()
+#1 /home/arashghs/app.arashghsz.com/mvc/controller/message.php(81): MessageModel::count_message()
+#2 [internal function]: MessageController->msg_count()
+#3 /home/arashghs/app.arashghsz.com/index.php(22): call_user_func_array(Array, Array)
+#4 {main}
+  thrown in /home/arashghs/app.arashghsz.com/mvc/model/message.php on line 116
+[21-Jul-2022 22:11:16 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'arashghs_appdb.notification' doesn't exist' in /home/arashghs/app.arashghsz.com/mvc/model/notification.php:25
+Stack trace:
+#0 /home/arashghs/app.arashghsz.com/mvc/model/notification.php(25): PDOStatement->execute()
+#1 /home/arashghs/app.arashghsz.com/mvc/controller/notification.php(24): NotificationModel::count_notification_detail('25')
+#2 [internal function]: NotificationController->get_notif_count()
+#3 /home/arashghs/app.arashghsz.com/index.php(22): call_user_func_array(Array, Array)
+#4 {main}
+  thrown in /home/arashghs/app.arashghsz.com/mvc/model/notification.php on line 25
+[21-Jul-2022 22:11:58 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:11:58 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:14:19 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:14:19 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:14:32 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:14:32 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:15:06 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:15:06 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:15:31 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:15:31 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:15:44 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:15:44 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:16:43 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:16:43 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:18:55 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:18:55 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:28:44 Asia/Tehran] PHP Warning:  require_once(mvc/controller/assets.php): failed to open stream: No such file or directory in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:28:44 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/assets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/app.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:35:30 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:35:30 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:35:31 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:35:31 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:35:32 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:35:32 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:35:36 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:35:36 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:35:39 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:35:39 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:35:39 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:35:39 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:35:41 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:35:41 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:35:42 Asia/Tehran] PHP Warning:  require_once(mvc/controller/admin.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:35:42 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/admin.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:35:42 Asia/Tehran] PHP Warning:  require_once(mvc/controller/admin.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:35:42 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/admin.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:35:42 Asia/Tehran] PHP Warning:  require_once(mvc/controller/admin.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:35:42 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/admin.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:35:42 Asia/Tehran] PHP Warning:  require_once(mvc/controller/hijaIyh_App.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:35:42 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/hijaIyh_App.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:35:42 Asia/Tehran] PHP Fatal error:  Class 'Panel.phpController' not found in /home/arashghs/twitter.arashghsz.com/index.php on line 20
+[21-Jul-2022 22:35:43 Asia/Tehran] PHP Warning:  require_once(mvc/controller/admin.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:35:43 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/admin.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:35:43 Asia/Tehran] PHP Warning:  require_once(mvc/controller/admin.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:35:43 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/admin.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:35:43 Asia/Tehran] PHP Warning:  require_once(mvc/controller/access.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:35:43 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/access.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:35:43 Asia/Tehran] PHP Warning:  require_once(mvc/controller/admin.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:35:43 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/admin.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:35:43 Asia/Tehran] PHP Warning:  require_once(mvc/controller/admin.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:35:43 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/admin.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:35:43 Asia/Tehran] PHP Warning:  require_once(mvc/controller/panel.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:35:43 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/panel.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:35:44 Asia/Tehran] PHP Warning:  require_once(mvc/controller/adminnnnz.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:35:44 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/adminnnnz.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:35:46 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:35:46 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:36:07 Asia/Tehran] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'UserController' does not have a method 'profi' in /home/arashghs/twitter.arashghsz.com/index.php on line 22
+[21-Jul-2022 22:36:08 Asia/Tehran] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'UserController' does not have a method 'pr' in /home/arashghs/twitter.arashghsz.com/index.php on line 22
+[21-Jul-2022 22:36:31 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:36:31 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:36:34 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:36:34 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:37:08 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:37:08 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:37:08 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:37:08 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:37:08 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:37:08 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:37:08 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:37:08 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:37:08 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:37:08 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:37:08 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:37:08 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:37:08 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:37:08 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:37:08 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:37:08 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:37:08 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:37:08 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:37:09 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:37:09 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:37:09 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:37:09 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:37:10 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:37:10 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:37:10 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:37:10 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:37:12 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:37:12 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:37:14 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:37:14 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:37:20 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:37:20 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:38:33 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:38:33 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:38:33 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:38:33 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:38:39 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:38:39 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:40:35 Asia/Tehran] PHP Warning:  Missing argument 1 for UserController::profile() in /home/arashghs/twitter.arashghsz.com/mvc/controller/user.php on line 315
+[21-Jul-2022 22:40:40 Asia/Tehran] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'UserController' does not have a method 'profilel' in /home/arashghs/twitter.arashghsz.com/index.php on line 22
+[21-Jul-2022 22:40:46 Asia/Tehran] PHP Warning:  require_once(mvc/controller/use.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:40:46 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/use.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:41:25 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:41:25 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:41:25 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:41:25 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:41:25 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:41:25 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:41:25 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:41:25 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:41:26 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:41:26 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:41:26 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:41:26 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:41:27 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:41:27 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:41:27 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:41:27 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:41:27 Asia/Tehran] PHP Warning:  require_once(mvc/controller/controller.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:41:27 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:41:37 Asia/Tehran] PHP Warning:  require_once(mvc/controller/ins.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:41:37 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/ins.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:46:50 Asia/Tehran] PHP Warning:  require_once(mvc/controller/ins.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:46:50 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/ins.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:46:51 Asia/Tehran] PHP Warning:  require_once(mvc/controller/ins.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:46:51 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/ins.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:46:51 Asia/Tehran] PHP Warning:  require_once(mvc/controller/ins.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:46:51 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/ins.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:46:52 Asia/Tehran] PHP Warning:  require_once(mvc/controller/ins.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:46:52 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/ins.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:46:52 Asia/Tehran] PHP Warning:  require_once(mvc/controller/ins.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:46:52 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/ins.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:46:52 Asia/Tehran] PHP Warning:  require_once(mvc/controller/ins.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:46:52 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/ins.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:46:53 Asia/Tehran] PHP Warning:  require_once(mvc/controller/ins.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:46:53 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/ins.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:46:53 Asia/Tehran] PHP Warning:  require_once(mvc/controller/ins.php): failed to open stream: No such file or directory in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:46:53 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'mvc/controller/ins.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arashghs/twitter.arashghsz.com/system/autoload.php on line 9
+[21-Jul-2022 22:46:58 Asia/Tehran] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, second array member is not a valid method in /home/arashghs/twitter.arashghsz.com/index.php on line 24
+[21-Jul-2022 22:47:15 Asia/Tehran] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, second array member is not a valid method in /home/arashghs/twitter.arashghsz.com/index.php on line 24
+[21-Jul-2022 22:48:16 Asia/Tehran] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, second array member is not a valid method in /home/arashghs/twitter.arashghsz.com/index.php on line 24
+[21-Jul-2022 22:49:36 Asia/Tehran] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/arashghs/twitter.arashghsz.com/index.php on line 26
+[21-Jul-2022 22:49:38 Asia/Tehran] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/arashghs/twitter.arashghsz.com/index.php on line 26
+[21-Jul-2022 22:55:16 Asia/Tehran] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, second array member is not a valid method in /home/arashghs/twitter.arashghsz.com/index.php on line 22
+[21-Jul-2022 23:14:05 Asia/Tehran] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'UserController' does not have a method 'ho' in /home/arashghs/twitter.arashghsz.com/index.php on line 22
+[21-Jul-2022 23:18:35 Asia/Tehran] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'UserController' does not have a method 'hom' in /home/arashghs/twitter.arashghsz.com/index.php on line 22
+[24-Feb-2023 23:40:00 Asia/Tehran] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'UserController' does not have a method 'PROFILE-LINK' in /home/arashghs/twitter.arashghsz.com/index.php on line 22
+[09-Oct-2023 17:23:49 Asia/Tehran] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'UserController' does not have a method 'index.php?option=com_contact' in /home/arashghs/twitter.arashghsz.com/index.php on line 22
+[09-Oct-2023 17:23:50 Asia/Tehran] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'UserController' does not have a method 'index.php?option=com_qcontacts' in /home/arashghs/twitter.arashghsz.com/index.php on line 22
+[09-Oct-2023 17:23:51 Asia/Tehran] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'UserController' does not have a method 'index.php?option=fckeditor' in /home/arashghs/twitter.arashghsz.com/index.php on line 22
+[09-Oct-2023 17:23:53 Asia/Tehran] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'UserController' does not have a method 'index.php?option=com_mailto' in /home/arashghs/twitter.arashghsz.com/index.php on line 22
+[09-Oct-2023 17:23:54 Asia/Tehran] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'UserController' does not have a method 'index.php?option=com_phocagallery' in /home/arashghs/twitter.arashghsz.com/index.php on line 22
+[09-Oct-2023 17:23:55 Asia/Tehran] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'UserController' does not have a method 'index.php?option=com_oziogallery2' in /home/arashghs/twitter.arashghsz.com/index.php on line 22
+[09-Oct-2023 17:23:55 Asia/Tehran] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'UserController' does not have a method 'index.php?option=phpmyadmin' in /home/arashghs/twitter.arashghsz.com/index.php on line 22
+[09-Oct-2023 17:23:56 Asia/Tehran] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'UserController' does not have a method 'index.php?option=phpmyadmin2' in /home/arashghs/twitter.arashghsz.com/index.php on line 22
+[09-Oct-2023 17:23:57 Asia/Tehran] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'UserController' does not have a method 'index.php?option=com_search' in /home/arashghs/twitter.arashghsz.com/index.php on line 22
+[09-Oct-2023 17:23:58 Asia/Tehran] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'UserController' does not have a method 'index.php?option=com_virtuemart' in /home/arashghs/twitter.arashghsz.com/index.php on line 22
+[21-Nov-2023 07:38:20 Asia/Tehran] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'UserController' does not have a method 'index.php?option=com_contact' in /home/arashghs/twitter.arashghsz.com/index.php on line 22
+[21-Nov-2023 07:38:21 Asia/Tehran] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'UserController' does not have a method 'index.php?option=com_qcontacts' in /home/arashghs/twitter.arashghsz.com/index.php on line 22
+[21-Nov-2023 07:38:22 Asia/Tehran] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'UserController' does not have a method 'index.php?option=fckeditor' in /home/arashghs/twitter.arashghsz.com/index.php on line 22
+[21-Nov-2023 07:38:23 Asia/Tehran] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'UserController' does not have a method 'index.php?option=com_mailto' in /home/arashghs/twitter.arashghsz.com/index.php on line 22
+[21-Nov-2023 07:38:24 Asia/Tehran] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'UserController' does not have a method 'index.php?option=com_phocagallery' in /home/arashghs/twitter.arashghsz.com/index.php on line 22
+[21-Nov-2023 07:38:25 Asia/Tehran] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'UserController' does not have a method 'index.php?option=com_oziogallery2' in /home/arashghs/twitter.arashghsz.com/index.php on line 22
+[21-Nov-2023 07:38:26 Asia/Tehran] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'UserController' does not have a method 'index.php?option=phpmyadmin' in /home/arashghs/twitter.arashghsz.com/index.php on line 22
+[21-Nov-2023 07:38:27 Asia/Tehran] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'UserController' does not have a method 'index.php?option=phpmyadmin2' in /home/arashghs/twitter.arashghsz.com/index.php on line 22
+[21-Nov-2023 07:38:28 Asia/Tehran] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'UserController' does not have a method 'index.php?option=com_search' in /home/arashghs/twitter.arashghsz.com/index.php on line 22
+[21-Nov-2023 07:38:28 Asia/Tehran] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'UserController' does not have a method 'index.php?option=com_virtuemart' in /home/arashghs/twitter.arashghsz.com/index.php on line 22
+[27-Jan-2024 00:38:27 Asia/Tehran] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'UserController' does not have a method '' in /home/arashghs/twitter.arashghsz.com/index.php on line 22
+[12-Jul-2024 22:42:10 Asia/Tehran] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, second array member is not a valid method in /home/arashghs/twitter.arashghsz.com/index.php on line 22
+[17-Jul-2024 16:47:46 Asia/Tehran] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'UserController' does not have a method '' in /home/arashghs/twitter.arashghsz.com/index.php on line 22
