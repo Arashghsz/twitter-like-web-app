@@ -6,6 +6,19 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css" />
     <link rel="stylesheet" href="/assets/css/style-complete.css" />
     <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <!-- Add React CDN links -->
+    <script src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+    <style>
+        .welcome-text {
+            text-align: center;
+            color: #1da1f2;
+            font-size: 24px;
+            margin: 20px 0;
+            min-height: 36px;
+        }
+    </style>
 </head>
 <!--Helvetica Neue-->
 
@@ -53,6 +66,9 @@
 
                 <!-- content right ends -->
                 <div class="content-right">
+                    <!-- Add React container -->
+                    <div id="welcome-container"></div>
+                    
                     <!-- Log In Section -->
                     <div class="login-wrapper" style="box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;">
                         <div class="login-div">
@@ -128,6 +144,34 @@
 
         </div><!-- inner wrapper ends-->
     </div><!-- ends wrapper -->
+
+    <!-- Add React component -->
+    <script type="text/babel">
+        function WelcomeMessage() {
+            const [text, setText] = React.useState('');
+            const fullText = "Welcome to Twitter, Please login or sign up to continue.";
+            
+            React.useEffect(() => {
+                let currentIndex = 0;
+                const intervalId = setInterval(() => {
+                    if (currentIndex <= fullText.length) {
+                        setText(fullText.slice(0, currentIndex));
+                        currentIndex++;
+                    } else {
+                        clearInterval(intervalId);
+                    }
+                }, 100);
+                
+                return () => clearInterval(intervalId);
+            }, []);
+            
+            return <div className="welcome-text">{text}</div>;
+        }
+
+        const container = document.getElementById('welcome-container');
+        const root = ReactDOM.createRoot(container);
+        root.render(<WelcomeMessage />);
+    </script>
 
 </body>
 
