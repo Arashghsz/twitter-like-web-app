@@ -5,10 +5,10 @@ require_once('system/loader.php');
 $uri = $_SERVER['REQUEST_URI'];
 
 $uri = explode("/",$uri);
-if (file_exists("/home/arashghs/twitter.arashghsz.com/mvc/controller"."/$uri[1].php")){
-    $class = $uri[1];
-    $method = $uri[2];
-    $params=array();
+if (file_exists("mvc/controller"."/$uri[2].php")){
+    $class = $uri[2];
+    $method = $uri[3];
+    $params = array();
     
     for ($i = 3 ;$i < count($uri) ; $i++){
     

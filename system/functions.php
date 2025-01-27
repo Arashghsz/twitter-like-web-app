@@ -7,12 +7,12 @@ function str_replace_first($from, $to, $content)
     return preg_replace($from, $to, $content, 1);
 }
 
-function str_contains($string,$search){
-    if (strpos($string, $search) !== false) {
-        return true;
-    }
-    return false;
-}
+// function str_contains($string,$search){
+//     if (strpos($string, $search) !== false) {
+//         return true;
+//     }
+//     return false;
+// }
 
 
 
